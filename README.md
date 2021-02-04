@@ -1,6 +1,6 @@
 ## Action Badge
 
-[![Actions](https://github.com/wk-j/action-badge/workflows/dotnet/badge.svg)](https://github.com/wk-j/action-badge/actions)
+[![Actions](https://github.com/wk-j/action-badge/workflows/NuGet/badge.svg)](https://github.com/wk-j/action-badge/actions)
 
 ```bash
 dotnet tool install -g wk.ActionBadge
